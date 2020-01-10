@@ -23,5 +23,4 @@ The second file in.txt  which has the raster data which display the image of the
 The third file agentframework.py that framework of the agents to class their behavior when the model run.
 The fourth is license file for licence software source code.
  
-
-[url=https://top4top.io/][img]https://g.top4top.io/p_1469xtzsk1.gif[/img][/url]
+[img]https://g.top4top.io/p_1469xtzsk1.gif[/img][/url]
