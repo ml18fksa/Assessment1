@@ -24,7 +24,7 @@ The third file agentframework.py that framework of the agents to class their beh
 The fourth is license file for licence software source code.
 
 
- a Graphical User Interface (GUI) animation  in a window.
+Graphical User Interface (GUI) animation window.
  
  
 <a href="https://imgflip.com/gif/3lonno"><img src="https://i.imgflip.com/3lonno.gif" title="made at imgflip.com"/></a>
