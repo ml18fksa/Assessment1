@@ -23,3 +23,4 @@ The second file in.txt  which has the raster data which display the image of the
 The third file agentframework.py that framework of the agents to class their behavior when the model run.
 The fourth is license file for licence software source code.
 
+![] (GIF 09-01-2020 21-33-19.gif)
