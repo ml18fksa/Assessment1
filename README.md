@@ -23,4 +23,5 @@ The second file in.txt  which has the raster data which display the image of the
 The third file agentframework.py that framework of the agents to class their behavior when the model run.
 The fourth is license file for licence software source code.
 
+ a Graphical User Interface (GUI) animation  in a window.
 <a href="https://imgflip.com/gif/3lonno"><img src="https://i.imgflip.com/3lonno.gif" title="made at imgflip.com"/></a>
